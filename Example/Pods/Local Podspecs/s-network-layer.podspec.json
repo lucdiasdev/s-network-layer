@@ -9,14 +9,16 @@
     "file": "LICENSE"
   },
   "authors": {
-    "lucdiasdev": "lucdias@uolinc.com"
+    "lucdiasdev": "lucrodrigs@gmail.com"
   },
   "source": {
     "git": "https://github.com/lucdiasdev/s-network-layer.git",
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "10.0"
+    "ios": null
   },
-  "source_files": "s-network-layer/Classes/**/*"
+  "swift_versions": "5.0",
+  "source_files": "s-network-layer/Classes/**/*",
+  "swift_version": "5.0"
 }

@@ -32,8 +32,8 @@ TODO: Add long description of the pod here.
   s.swift_version = '5.0'
   s.platform = :ios
 
-#  s.source_files = 's-network-layer/Classes/**/*'
-s.source_files = 's-network-layer/**/*.swift'
+  s.source_files = 's-network-layer/Classes/**/*'
+#s.source_files = 's-network-layer/**/*.swift'
   
   # s.resource_bundles = {
   #   's-network-layer' => ['s-network-layer/Assets/*.png']
