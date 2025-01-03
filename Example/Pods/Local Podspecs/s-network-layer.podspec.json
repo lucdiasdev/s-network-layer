@@ -1,0 +1,22 @@
+{
+  "name": "s-network-layer",
+  "version": "0.1.0",
+  "summary": "A short description of s-network-layer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lucdiasdev/s-network-layer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lucdiasdev": "lucdias@uolinc.com"
+  },
+  "source": {
+    "git": "https://github.com/lucdiasdev/s-network-layer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "s-network-layer/Classes/**/*"
+}

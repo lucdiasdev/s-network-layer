@@ -1,0 +1,16 @@
+PODS:
+  - s-network-layer (0.1.0)
+
+DEPENDENCIES:
+  - s-network-layer (from `../`)
+
+EXTERNAL SOURCES:
+  s-network-layer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  s-network-layer: 186e1fade159c3c4f359e388801a8242af22a244
+
+PODFILE CHECKSUM: 4528d6c6dd53441be8d6a4dc215358847aaab66b
+
+COCOAPODS: 1.16.2

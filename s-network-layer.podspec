@@ -24,13 +24,16 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/lucdiasdev/s-network-layer'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'lucdiasdev' => 'lucdias@uolinc.com' }
+  s.author           = { 'lucdiasdev' => 'lucrodrigs@gmail.com' }
   s.source           = { :git => 'https://github.com/lucdiasdev/s-network-layer.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '12.0'
+  s.swift_version = '5.0'
+  s.platform = :ios
 
-  s.source_files = 's-network-layer/Classes/**/*'
+#  s.source_files = 's-network-layer/Classes/**/*'
+s.source_files = 's-network-layer/**/*.swift'
   
   # s.resource_bundles = {
   #   's-network-layer' => ['s-network-layer/Assets/*.png']

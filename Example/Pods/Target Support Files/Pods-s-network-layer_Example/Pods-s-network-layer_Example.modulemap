@@ -1,0 +1,6 @@
+framework module Pods_s_network_layer_Example {
+  umbrella header "Pods-s-network-layer_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
