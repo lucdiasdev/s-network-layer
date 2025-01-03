@@ -22,7 +22,7 @@ pod 's-network-layer'
 
 ## Author
 
-lucdiasdev, lucdias@uolinc.com
+lucdiasdev, lucrodrigs@gmail.com
 
 ## License
 
